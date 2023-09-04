@@ -14,16 +14,16 @@ information inputed.
 -Shows saved information.
 
 ## Instalation
-1.Clone the repo
--- "git clone git@github.com:Bele2244/info_save_C.git"
-2.Compile the program using a C compiler
--- gcc main.c -o program
+1.Clone the repo  
+-- "git clone git@github.com:Bele2244/info_save_C.git"  
+2.Compile the program using a C compiler  
+-- gcc main.c -o program  
 
 ## Usage
-1.Open the command prompt or terminal.
-2.Navigate to the program directory.
-3.Run the program using the "./main" command.
-4.Follow the on-screen insturcitons to add, remove, or show information.
+1.Open the command prompt or terminal.  
+2.Navigate to the program directory.  
+3.Run the program using the "./main" command.  
+4.Follow the on-screen insturcitons to add, remove, or show information.  
 
 ## Examples
 ./main
