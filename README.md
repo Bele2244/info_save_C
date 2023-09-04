@@ -26,11 +26,11 @@ information inputed.
 4.Follow the on-screen insturcitons to add, remove, or show information.  
 
 ## Examples
-./main
-Enter 'a' to add information.
-Enter 'r' to remove information.
-Enter 's' to show information.
-Enter 'q' to quit the program.
+
+Enter 'a' to add information.  
+Enter 'r' to remove information.  
+Enter 's' to show information.  
+Enter 'q' to quit the program.  
 
 ## Contributing
 
